@@ -2,6 +2,16 @@ package com.java.Sankalp;
 
 import java.util.Scanner;
 
+/**
+* This program just simply implements Floyd's Algorithm.
+* It finds the shortest path from all pair of vertices.
+* It makes use of Interface, Abstract Class, Instantiation of an Abstract Class, BCR, Casting the references.
+* This program was intentionally developed to throw some light on the above concepts.
+*  
+*
+* @author  Sankalp Saxena 
+*/
+
 interface IFloyd {
 	
 	public abstract void compute();
